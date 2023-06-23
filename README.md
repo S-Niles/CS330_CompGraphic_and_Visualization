@@ -1,16 +1,8 @@
 # CS330_CompGraphic_and_Visualization
 Culmination of work for CS330 Computer Graphics and Visualization at SNHU. 
 
-1. How do I approach designing software?
-    What new design skills has your work on the project helped you to craft?
-    What design process did you follow for your project work?
-    How could tactics from your design approach be applied in future work?
+The final deliverable for this class was the recreate a low poly version of a picture or 3D-Scene of our choosing, with each week consisting of additional functionality and a growing understanding of how OpenGL works and how computer graphics are created. Each week for this project included some new implementation of functionality or a feature, such as camera movements or adding lighting. This class and subsequent project was a great foundational moment where instead of startin from scratch each week, I continued to design and develope the same program as the "software requirements" continued to increase. Although I already had a decent understanding about OOP principles, this project served as a great practice reinforcing those concepts. Most of which included abstraction, as by the end of the week more than half of the actual software functionality was abstracted to seperate classes, such as camera movement, mesh loading, textures and shaders. This working example was a great showcase of how the SDLC can fit into a project, each week was an interactive approach to the final deliverable and also showed me how following standard and good coding practices from the beginning can really make or break a project. The skills and knowledge I acquired from this project will be integral to my future success. 
 
-3. How do I approach developing programs?
-    What new development strategies did you use while working on your 3D scene?
-    How did iteration factor into your development?
-    How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+Just learning the basic of OpenGL has garnered even more respect for those that work areas of graphics and visualization, as the possibilities and amount of work involved are incredible. Comparatively, a big difference that I got to experience in this class was how my coding choices can affect the final outcome. Instead of just compiling and executing code that "runs", my choices of how things were implemented could have major impacts in the final visual that I produced. To me, this had the opposite effect of how we implement abstraction, as I was able to see all of the intricate details and how the compenonets of the system interacted. This experience has provided me with a new insight into the world of software development, with a growing appreciate and set of skills that will continue to aid my in the rest of my educational and professional path. 
 
-5. How can computer science help me in reaching my goals?
-    How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-    How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+
